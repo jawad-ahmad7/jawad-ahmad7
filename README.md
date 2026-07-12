@@ -76,14 +76,17 @@ While my repositories hold the code, my primary technical pursuits include:
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jawad-ahmad7&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=00f0ff&text_color=c9c9c9&bg_color=1a1b27" alt="Jawad's GitHub Stats" width="48%" />
+  <!-- FIX: Replaced github-readme-stats.vercel.app with github-stats-extended.vercel.app -->
+  <img src="https://github-stats-extended.vercel.app/api?username=jawad-ahmad7&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=00f0ff&text_color=c9c9c9&bg_color=1a1b27" alt="Jawad's GitHub Stats" width="48%" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-ahmad7&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=00f0ff&text_color=c9c9c9&bg_color=1a1b27" alt="Jawad's GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad-ahmad7&layout=compact&theme=tokyonight&hide_border=true&title_color=00f0ff&text_color=c9c9c9&bg_color=1a1b27" alt="Top Languages" width="60%" />
+  <!-- FIX: Replaced github-readme-stats.vercel.app with github-stats-extended.vercel.app -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jawad-ahmad7&layout=compact&theme=tokyonight&hide_border=true&title_color=00f0ff&text_color=c9c9c9&bg_color=1a1b27" alt="Top Languages" width="60%" />
 </div>
 
 ---
