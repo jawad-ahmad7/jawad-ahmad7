@@ -1,129 +1,58 @@
-<!-- ========================================= -->
-<!--            JAWAD AHMAD README             -->
-<!-- ========================================= -->
+<div align="center">
 
-<h1 align="center">
-  👋 Hi, I'm Jawad Ahmad
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Jawad+Ahmad+👋;AI+%26+Machine+Learning+Learner;Python+Enthusiast;Building+the+Future+with+Data" alt="Typing SVG" />
 
-<p align="center">
-  <b>AI & Machine Learning Student</b><br>
-  Learning • Building • Improving Every Day
-</p>
+<br/>
 
----
+![Visitors](https://api.visitorbadge.io/api/visitors?path=jawad-ahmad7.jawad-ahmad7&countColor=%2300f0ff&style=flat-square)
 
-## 🚀 About Me
+</div>
 
-I'm currently learning Artificial Intelligence and Machine Learning.
+### 👨‍💻 About Me
 
-Instead of rushing through tutorials, I focus on understanding concepts deeply and building projects that improve my skills.
-
-My goal is to become an AI Engineer capable of solving real-world problems with data and intelligent systems.
+- 🤖 I'm on a continuous journey learning **Artificial Intelligence** and **Machine Learning**.
+- 🐍 Passionate about building models, analyzing data, and writing clean **Python** code.
+- 🛠️ My daily driver and favorite workspace is **VS Code**.
+- 🌱 Currently exploring modern ML libraries to build intelligent solutions and automate processes.
+- ⚡ **Fun Fact:** AI is evolving every day, and I'm right here riding the wave!
 
 ---
 
-## 📖 Currently Learning
+### 💻 Tech Stack & Tools
 
-- Python
-- NumPy
-- Machine Learning
-- Data Analysis
-- Git & GitHub
-- Deep Learning (Soon)
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Master Python
-- ✅ Learn Machine Learning
-- 🔄 Build 20+ AI Projects
-- 🔄 Learn Deep Learning
-- 🔄 Learn Computer Vision
-- 🔄 Learn NLP
-- 🔄 Contribute to Open Source
-- 🔄 Build a Strong GitHub Portfolio
+<div align="center">
+  <a href="https://skillicons.dev">
+    <!-- These icons are automatically styled and animated on hover -->
+    <img src="https://skillicons.dev/icons?i=python,vscode,tensorflow,pytorch,scikitlearn,pandas,numpy,git,github&theme=dark" alt="My Tech Stack"/>
+  </a>
+</div>
 
 ---
 
-## 💻 Tech Stack
+### 📊 GitHub Stats
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-
-</p>
+<div align="center">
+  <!-- These cards dynamically pull from your jawad-ahmad7 account -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jawad-ahmad7&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f0ff" alt="Jawad's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-ahmad7&theme=tokyonight&hide_border=true&title_color=00f0ff" alt="Jawad's GitHub Streak" />
+</div>
 
 ---
 
-## 📂 Current Repositories
+### 🤝 Connect with Me
 
-📌 AI & Machine Learning
-
-📌 Python Practice
-
-📌 Data Structures
-
-📌 Future AI Projects
-
----
-
-## 🌱 My Learning Philosophy
-
-> Learn.
->
-> Practice.
->
-> Build.
->
-> Improve.
->
-> Repeat.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jawad-ahmad7&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-ahmad7&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad-ahmad7&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## ⚡ Daily Reminder
-
-```text
-The expert in anything
-was once
-a beginner
-who refused to quit.
-```
-
----
-
-## 🌍 Connect With Me
-
-GitHub
-
-https://github.com/jawad-ahmad7
+<div align="center">
+  <!-- Replace the href links with your actual URLs -->
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your-handle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
 
 ---
 
