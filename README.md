@@ -7,9 +7,9 @@
 <br/>
 
 <a href="https://github.com/ijawadahmad7">
-<img src="https://img.shields.io/badge/GitHub-ijawadahmad7-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/GitHub-jawad-ahmad7-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=ijawadahmad7&style=for-the-badge&color=2563eb&labelColor=0f172a&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=jawad-ahmad7&style=for-the-badge&color=2563eb&labelColor=0f172a&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -86,12 +86,12 @@ fun_fact: I debug faster than I explain my code 😄
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ijawadahmad7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijawadahmad7&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jawad-ahmad7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad-ahmad7&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ijawadahmad7&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-ahmad7&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ijawadahmad7&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jawad-ahmad7&theme=tokyo-night&hide_border=true" width="90%"/>
 
 </div>
 
@@ -101,7 +101,7 @@ fun_fact: I debug faster than I explain my code 😄
 
 <div align="center">
 
-<a href="https://github.com/ijawadahmad7">
+<a href="https://github.com/jawad-ahmad7">
 <img src="https://img.shields.io/badge/Follow_on_GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
