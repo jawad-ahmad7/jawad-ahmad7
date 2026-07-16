@@ -53,9 +53,9 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38BDF8&center=false&vCenter=true&width=435&lines=class+InformaticsStudent%3A;++++def+__init__(self)%3A" alt="Code Typing" />
       <pre lang="python">
         self.name = "Jawad Ahmad"
-        self.role = "AI & Product Developer"
+        self.role = "AI & ML aspirant"
         self.location = "Peshawar, KP, Pakistan"
-        self.education = "Artificial intelligence Student"
+        self.education = " BS Artificial intelligence"
         self.core_focus = [
             "AI Systems",
             "Software Engineering",
@@ -85,9 +85,6 @@
 
 ### 🎯 Key Highlights
 * 💻 **Informatics Explorer:** Deeply focused on Data Structures, Object-Oriented Programming, and advanced AI Agents.
-* 🤖 **Automation Builder:** Developed a fully functioning voice-controlled home automation system ("Jarvis") using an Arduino Uno and Python.
-* 🧠 **Core Foundations:** Strong grasp of academic fundamentals, including Digital Logic Design (K-Maps, Boolean algebra) and Discrete Structures.
-* 🏆 **Entrepreneurial Mindset:** Startup founder and hackathon winner aiming to bring clean, useful digital products to life.
 
 ---
 <p align="center">
@@ -101,16 +98,8 @@
 <div align="center">
 
 ### 💻 Core Programming Languages
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" /><br />**C++** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" /><br />**Python** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" /><br />**JavaScript** |
-| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" /><br /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" /><br />  
 
-### 🌐 Web & Product Engineering
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" /><br />**HTML5** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" /><br />**CSS3** |
-| :---: | :---: |
-
-### 🤖 Hardware, IoT & Design
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="50" height="50" /><br />**Arduino Uno** | <img src="https://user-images.githubusercontent.com/19211252/125174411-e1291880-e17f-11eb-81c0-0ed4cf37ff34.png" alt="ESP32" width="50" height="50" /><br />**ESP32** | <img src="https://user-images.githubusercontent.com/64104443/182035973-1f191a61-12cd-47d3-ba68-4668df2be879.png" alt="AutoCAD" width="50" height="50" /><br />**AutoCAD 3D** |
-| :---: | :---: | :---: |
 
 ### 🛠️ Development Tools & Workspace
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" /><br />**VS Code** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" /><br />**Git** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" /><br />**GitHub** |
